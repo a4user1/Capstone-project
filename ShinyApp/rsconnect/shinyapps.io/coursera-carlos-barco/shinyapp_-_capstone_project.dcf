@@ -1,0 +1,12 @@
+name: shinyapp_-_capstone_project
+title: ShinyApp - Capstone Project
+username:
+account: coursera-carlos-barco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 305369
+bundleId: 1282699
+url: https://coursera-carlos-barco.shinyapps.io/shinyapp_-_capstone_project/
+when: 1521733171.10677
+asMultiple: FALSE
+asStatic: FALSE
